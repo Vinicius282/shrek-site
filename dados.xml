@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recompensas>
+    <pirata>
+        <id>	1	</id>
+        <nome>		</nome>
+        <recompensa>	SHREK	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>  ° Sir Shrek é um personagem fictício, criado pelo autor americano Safado.
+
+° , e é o protagonista titular do livro de mesmo nome, uma série de filmes da DreamWorks Animation, bem como um musical.
+
+° 
+Ele é um Ogro, que vivia sozinho na solidão, porém, sua vida mudou depois que conheceu seu amigo Burro, assim como outras pessoas pelo 
+caminho. Ele se casou com a princesa Fiona, filha e filha única da rainha Lillian e do falecido rei Harold, os governantes do reino de 
+ Tão, Tão Distante, antes que o governo do reino fosse passado para Arthur Pendragon, que era sobrinho do rei Harold.
+
+°   </sobre>
+        <status>		</status>
+    </pirata>
+    <pirata>
+        <id>	2	</id>
+        <nome>		</nome>
+        <recompensa>	Fiona	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° A princesa Fiona é a princesa de Far Away e filha da rainha Lillian e do rei Haroldo. Ela é esposa de Shrek e mãe dos 
+        trigêmeos Fergus, Farkle e Felicia.
+
+	 </sobre>
+    </pirata>
+    <pirata>
+        <id>	3	</id>
+        <nome>		</nome>
+        <recompensa>	Gato De Botas	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Gato de Botas, muitas vezes referido apenas como Gato (rebatizado de Pickles), brevemente, é um gato listrado de 
+        gengibre que é habilidoso com uma espada e cujo nome é derivado do chapéu e botas que ele usa. Ele apareceu pela primeira vez 
+        como um caçador de recompensas, mas mais tarde se tornou o fiel ajudante de Shrek, até sair para se tornar o "herói destemido" 
+        que ele sempre acreditou ser.
+
+°	</sobre>
+    </pirata>
+    <pirata>
+        <id>	4	</id>
+        <nome>		</nome>
+        <recompensa>	Burro	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Burro é um burro falante, eufórico, alegre e voraz. Ele é o ajudante e melhor amigo de Shrek, marido de Dragon, 
+        e pai dos Dronkeys.
+
+°	</sobre>
+    </pirata>
+    <pirata>
+        <id>	5	</id>
+        <nome>		</nome>
+        <recompensa>	Dragao	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Dragão (canonicamente chamado Elizabeth) é um dragão vermelho de olhos verdes que viveu em sua guarda onde uma vez 
+        guardou a torre de Fiona. Ela também é o interesse amoroso de Burro e eventual esposa.
+
+° </sobre>
+    </pirata>
+    <pirata>
+        <id>	6	</id>
+        <nome>		</nome>
+        <recompensa>	Homem Pão de Gengibre	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Gingerbread Man, também conhecido como Gingy, é um biscoito de gengibre que foi criado pelo Homem Muffin. 
+        Ele é um dos bons amigos de Shrek.
+
+°	</sobre>
+    </pirata>
+    <pirata>
+        <id>	7	</id>
+        <nome>		</nome>
+        <recompensa>	Doris	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Doris é uma das ex-bartenders de Cinderela na Maçã Venenosa. Ela se tornaria parte do círculo de princesas de Fiona.
+
+°	</sobre>
+    </pirata>
+    <pirata>
+        <id>	8	</id>
+        <nome>		</nome>
+        <recompensa>	encantado	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° O Príncipe Encantado é um arqui-inimigo recorrente de Shrek. Ele era uma figura um tanto reconhecível em 
+        Far Far Away, e foi arranjado para resgatar a Princesa Fiona da Guarda do Dragão.
+
+°	</sobre>
+    </pirata>
+    <pirata>
+        <id>	9	</id>
+        <nome>		</nome>
+        <recompensa>	Lord Farquaad	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Lord Farquaad era o governante tirânico e implacável de Duloc, que ansiava por um "mundo perfeito" 
+        livre de todas as coisas mágicas.
+
+°	</sobre>
+    </pirata>
+    <pirata>
+        <id>	10	</id>
+        <nome>		</nome>
+        <recompensa>	Rumpelstiltskin	</recompensa>
+        <alcunha>		</alcunha>
+        <sobre>	° Se você está procurando o personagem do terceiro filme, veja: Rumpelstiltskin.
+
+°	</sobre>
+    </pirata>
+</recompensas>																														
